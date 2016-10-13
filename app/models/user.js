@@ -22,6 +22,6 @@ var User = db.Model.extend({
   }
 });
 
-console.log('hello again');
+console.log('hello');
 
 module.exports = User;
